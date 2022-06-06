@@ -1,7 +1,7 @@
 # conflictos
-## Gabriel García González
+## Nombre modificado
 ---
-### Fecha 06/06/2022
+### Fecha 11/11/1111
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque nisl eros, 
 pulvinar facilisis justo mollis, auctor consequat urna. Morbi a bibendum metus. 
