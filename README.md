@@ -1,12 +1,12 @@
 # conflictos
 
+<<<<<<< HEAD
+
 ## Jaimito Fernandez
 
 ---
 
 ### Fecha 22/22/2222
-
----
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque nisl eros,
 pulvinar facilisis justo mollis, auctor consequat urna. Morbi a bibendum metus.
