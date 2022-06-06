@@ -1,7 +1,5 @@
 # conflictos
 
-<<<<<<< HEAD
-
 ## Jaimito Fernandez
 
 ---
